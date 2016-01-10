@@ -7,7 +7,7 @@
 
 #2.- The service registration service has the two microservices registered.
 
-![imagen 2-1](https://github.com/Nerok96/Laboratory-6-microservices/5pract6-dash-eureka1111-accounts2222-web3333-working.png)
+![imagen 2-1](https://github.com/Nerok96/Laboratory-6-microservices/blob/master/img/5pract6-dash-eureka1111-accounts2222-web3333-working.png)
 
 #3.- A second account microservice is running in the port 4444 and it is registered.
 
